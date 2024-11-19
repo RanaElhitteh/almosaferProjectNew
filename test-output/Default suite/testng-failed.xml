@@ -5,8 +5,8 @@
     <classes>
       <class name="MyTestcase">
         <methods>
+          <include name="CheckThePageIsFullyLoded"/>
           <include name="mySetup"/>
-          <include name="CheckQitafLogoIfDisdlayed"/>
         </methods>
       </class> <!-- MyTestcase -->
     </classes>
